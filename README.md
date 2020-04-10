@@ -10,6 +10,7 @@ Project is created with:
 	
 ## Setup
 To run this project, just upload the .ipynb file into your JupyterLab enviroment and follow the instructions from the comments.
+In the file upload section you can upload the 'sample.txt' file which is already present in the folder or you can upload file of your own too.
 
 ## Output
 If your run is successful then you will see the image as below 
